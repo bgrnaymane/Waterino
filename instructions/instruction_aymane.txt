@@ -1,0 +1,15 @@
+Aymane kannst du eine Seite mit folgenden Komponenten erstellen? Du muss deinen Tutorial nicht komplett abschließen, um die Seite zu erstellen, 
+du könntest das auch nebenbei machen, falls du an irgendeiner Stelle nicht mehr vorankommst, außerdem gibt es viele Info im Internet, 
+wie man sowas macht.
+
+Komponente:
+	• Header (Home, About us, Anmelden/Abmelden)
+	• Body:
+		○ Button, um neue Pflanzen einzufügen
+		○ 2 Karten für die Pflanzen (https://getbootstrap.com/docs/4.3/components/card/)
+
+Funktion:
+	• User-Authentifizierung 
+    (Es wäre auch gut, wenn du für die 
+    Anmeldung auch eine Seite erstellst: https://freefrontend.com/css-login-forms/)
+	
